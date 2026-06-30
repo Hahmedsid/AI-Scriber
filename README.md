@@ -16,7 +16,7 @@
 
 | Recorder UI | Generated SOAP Note |
 |---|---|
-| *(add screenshot)* | *(add screenshot)* |
+|  | *(add screenshot)* |
 
 ---
 
