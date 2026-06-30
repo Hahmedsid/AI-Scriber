@@ -12,15 +12,6 @@
 
 ---
 
-## Screenshots
-
-| Recorder UI | Generated SOAP Note |
-|---|---|
-| <img width="424" height="326" alt="RecorderUI" src="https://github.com/user-attachments/assets/bec3c9f4-8ba0-4891-861c-480c473d6d19" />
- | *(add screenshot)* |
-
----
-
 ## What It Does
 
 Physicians spend an average of **2–3 hours per day** on clinical documentation — time stolen from patients and from the rest of their lives. This pipeline eliminates that friction entirely.
