@@ -16,7 +16,8 @@
 
 | Recorder UI | Generated SOAP Note |
 |---|---|
-| "D:\Hassaan\AAA\ai-scriber-demo\RecorderUI.png" | *(add screenshot)* |
+| <img width="424" height="326" alt="RecorderUI" src="https://github.com/user-attachments/assets/bec3c9f4-8ba0-4891-861c-480c473d6d19" />
+ | *(add screenshot)* |
 
 ---
 
